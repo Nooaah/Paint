@@ -5,6 +5,10 @@ Projet C : Réalisation d'un Paint
 
 Réalisation : 	Noah CHATELAIN
 
+####### EXECUTER PAINT ########
+
+Dans le terminal : ./paint
+
 ######## RACCOURCIS ###########
 
 1 : Rectangle
