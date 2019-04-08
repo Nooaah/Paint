@@ -7,7 +7,10 @@ Réalisation : 	Noah CHATELAIN
 
 ####### EXECUTER PAINT ########
 
-Dans le terminal : ./paint
+Dans le terminal : 
+
+1)   chmod 777 paint
+2) ./paint
 
 ######## RACCOURCIS ###########
 
